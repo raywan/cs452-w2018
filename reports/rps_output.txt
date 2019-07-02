@@ -1,0 +1,156 @@
+ENABLE CACHING
+INITIALIZING TIMER
+INITIALIZING KERNEL
+[Player 3] Connecting to server...
+[Player 4] Connecting to server...
+[Player 5] Connecting to server...
+[Player 6] Connecting to server...
+[Player 7] Connecting to server...
+[Player 8] Connecting to server...
+[Player 9] Connecting to server...
+[Player 10] Connecting to server...
+[Player 11] Connecting to server...
+[Player 12] Connecting to server...
+[RPS Server] Accepting Player 3
+[RPS Server] Accepting Player 4
+[Player 3] Sending PAPER.
+[Player 4] Sending SCISSORS.
+[RPS Server] Queueing Player 5
+[RPS Server] Queueing Player 6
+[RPS Server] Queueing Player 7
+[RPS Server] Queueing Player 8
+[RPS Server] Queueing Player 9
+[RPS Server] Queueing Player 10
+[RPS Server] Queueing Player 11
+[RPS Server] Queueing Player 12
+[RPS Server] Player 3 is playing PAPER
+[RPS Server] Player 4 is playing SCISSORS
+[RPS Server] Player 3 played PAPER.
+[RPS Server] Player 4 played SCISSORS.
+[RPS Server] Player 4 wins!
+[Player 3] I lost :(
+[Player 4] I won!
+
+
+Press any key to continue...
+
+[Player 3] Sending ROCK.
+[Player 4] Quitting...
+[RPS Server] Player 3 is playing ROCK
+[RPS Server] Player 4 requested to leave.
+[RPS Server] Informing Player 3 that opponent left.
+[RPS Server] Accepting Player 5
+[Player 3] Opponent left :(
+[Player 3] Sending SCISSORS.
+[Player 5] Sending PAPER.
+[RPS Server] Player 3 is playing SCISSORS
+[RPS Server] Player 5 is playing PAPER
+[RPS Server] Player 3 played SCISSORS.
+[RPS Server] Player 5 played PAPER.
+[RPS Server] Player 3 wins!
+[Player 3] I won!
+[Player 5] I lost :(
+
+
+Press any key to continue...
+
+[Player 3] Quitting...
+[Player 5] Quitting...
+[RPS Server] Player 3 requested to leave.
+[RPS Server] Player 5 requested to leave.
+[RPS Server] Accepting Player 6
+[RPS Server] Accepting Player 7
+[Player 6] Sending ROCK.
+[Player 7] Quitting...
+[RPS Server] Player 6 is playing ROCK
+[RPS Server] Player 7 requested to leave.
+[RPS Server] Informing Player 6 that opponent left.
+[RPS Server] Accepting Player 8
+[Player 6] Opponent left :(
+[Player 6] Sending ROCK.
+[Player 8] Sending ROCK.
+[RPS Server] Player 6 is playing ROCK
+[RPS Server] Player 8 is playing ROCK
+[RPS Server] Player 6 played ROCK.
+[RPS Server] Player 8 played ROCK.
+[RPS Server] It's a tie!
+[Player 6] Whoa, I tied?
+[Player 8] Whoa, I tied?
+
+
+Press any key to continue...
+
+[Player 6] Sending SCISSORS.
+[Player 8] Sending PAPER.
+[RPS Server] Player 6 is playing SCISSORS
+[RPS Server] Player 8 is playing PAPER
+[RPS Server] Player 6 played SCISSORS.
+[RPS Server] Player 8 played PAPER.
+[RPS Server] Player 6 wins!
+[Player 6] I won!
+[Player 8] I lost :(
+
+
+Press any key to continue...
+
+[Player 6] Quitting...
+[Player 8] Sending PAPER.
+[RPS Server] Player 6 requested to leave.
+[RPS Server] Player 8 is playing PAPER
+[RPS Server] Informing Player 8 that opponent left.
+[RPS Server] Accepting Player 9
+[Player 8] Opponent left :(
+[Player 9] Quitting...
+[Player 8] Sending ROCK.
+[RPS Server] Player 9 requested to leave.
+[RPS Server] Player 8 is playing ROCK
+[RPS Server] Informing Player 8 that opponent left.
+[RPS Server] Accepting Player 10
+[Player 8] Opponent left :(
+[Player 10] Sending SCISSORS.
+[Player 8] Sending PAPER.
+[RPS Server] Player 10 is playing SCISSORS
+[RPS Server] Player 8 is playing PAPER
+[RPS Server] Player 10 played SCISSORS.
+[RPS Server] Player 8 played PAPER.
+[RPS Server] Player 10 wins!
+[Player 10] I won!
+[Player 8] I lost :(
+
+
+Press any key to continue...
+
+[Player 10] Sending PAPER.
+[Player 8] Sending PAPER.
+[RPS Server] Player 10 is playing PAPER
+[RPS Server] Player 8 is playing PAPER
+[RPS Server] Player 10 played PAPER.
+[RPS Server] Player 8 played PAPER.
+[RPS Server] It's a tie!
+[Player 10] Whoa, I tied?
+[Player 8] Whoa, I tied?
+
+
+Press any key to continue...
+
+[Player 10] Sending SCISSORS.
+[Player 8] Quitting...
+[RPS Server] Player 10 is playing SCISSORS
+[RPS Server] Player 8 requested to leave.
+[RPS Server] Informing Player 10 that opponent left.
+[RPS Server] Accepting Player 11
+[Player 10] Opponent left :(
+[Player 10] Quitting...
+[Player 11] Sending PAPER.
+[RPS Server] Player 10 requested to leave.
+[RPS Server] Player 11 is playing PAPER
+[RPS Server] Informing Player 11 that opponent left.
+[RPS Server] Accepting Player 12
+[Player 11] Opponent left :(
+[Player 12] Sending SCISSORS.
+[Player 11] Quitting...
+[RPS Server] Player 12 is playing SCISSORS
+[RPS Server] Player 11 requested to leave.
+[RPS Server] Informing Player 12 that opponent left.
+[Player 12] Opponent left :(
+
